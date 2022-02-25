@@ -8,6 +8,6 @@
 <br> <br> 
 <br> <br>
 <a href="https://docs.google.com/document/d/16eFgKF76daCSg8H1YcQxUv1EF_juUN6C3FQ5RqWwBjA/edit?usp=sharing"> <font face="arial" size="4" color="#03EE5C"> 
-Clink here to access the Critique Paper
+Click here to access the Critique Paper
 </center> </font> <br> <br>
 </td> </tr> </table> </td> </html>
